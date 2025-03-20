@@ -8,7 +8,7 @@ const Nav = () => {
                 <Link to="/blue">Blue</Link>
                 <Link to="/red">Red</Link>
                 <Link to="/purple">Purple</Link>
-                <Link to="green">Green</Link>
+                <Link to="/green">Green</Link>
             </nav>
       </div>
      );
